@@ -43,11 +43,11 @@
 <div align="center">
   <img
     align="left"
-    height="200"
+    height="180"
     src="https://github-readme-stats.vercel.app/api?username=jaws728&show_icons=true&theme=transparent&show_owner=true"
   />
   <img
-    height="200"
+    height="180"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaws728&layout=compact"
   />
 </div>
