@@ -1,10 +1,9 @@
-<h1 align="center">WHOAMI -- Jaws728 --</h1>
-<h3 align="center">CODING = FUN</h3>
+<h1 align="center">* WHOAMI ----- jaws728 *</h1>
+<h3 align="center">* CODING = FUN *</h3>
 
 <p>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaws728&show_icons=true&theme=transparent)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaws728&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+  <span>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaws728&show_icons=true&theme=transparent)</span>
+  <span>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaws728&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</span>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
