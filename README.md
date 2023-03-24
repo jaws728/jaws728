@@ -2,8 +2,8 @@
 <h3 align="center">* CODING = FUN *</h3>
 
 <p>
-  <span>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaws728&show_icons=true&theme=transparent)</span>
-  <span>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaws728&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</span>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=jaws728&show_icons=true&theme=transparent&show_owner=true"/>
+  <img align="right" width="auto" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaws728&layout=compact)"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
