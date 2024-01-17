@@ -23,7 +23,7 @@
 
 <br />
 
-- Electrical and Computer Engineering Degree
+- Electrical and Computer Engineering Master Degree
 - Software Developer
 - Still up for learning new things
 
@@ -218,6 +218,30 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
       alt="vuejs"
+      width="20"
+      height="20"
+    />
+  </a>
+  <a href="https://go.dev/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg"
+      alt="golang"
+      width="20"
+      height="20"
+    />
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/kubernetes.svg"
+      alt="k8s"
+      width="20"
+      height="20"
+    />
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg"
+      alt="bash"
       width="20"
       height="20"
     />
