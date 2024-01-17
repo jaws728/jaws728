@@ -24,7 +24,7 @@
 <br />
 
 - Electrical and Computer Engineering Degree
-- Web Front-End Developer
+- Software Developer
 - Still up for learning new things
 
 <br />
